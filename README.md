@@ -6,6 +6,7 @@
 <body>
 
   <h1>Data Analytics on School Data</h1>
+  <h2>If You Want to Experience this You can Just View/Open The File 23BCE0191.ipynb in github itself</h2>
 
   <div class="section">
     <h2>Project Overview</h2>
@@ -94,7 +95,7 @@
   </div>
 
   <div class="section">
-    <h2>Future Enhancements</h2>
+    <h2>Future Enhancements To Be Worked On</h2>
     <ul>
       <li>Use panel data regression for robust results.</li>
       <li>Apply clustering to group similar schools.</li>
